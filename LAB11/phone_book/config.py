@@ -1,0 +1,5 @@
+host="localhost"
+dbname="dulatbasa" 
+user="postgres" 
+password="dulat2006"
+port="5432"
